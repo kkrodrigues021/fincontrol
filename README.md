@@ -1,7 +1,5 @@
 # FinControl - Controle Financeiro Pessoal
 
-![FinControl Screenshot](screenshot.png) <!-- Adicione uma screenshot depois -->
-
 Um sistema completo para gerenciamento financeiro pessoal com interface intuitiva e relatórios visuais. Desenvolvido com JavaScript vanilla para performance e armazenamento local persistente.
 
 ## ✨ Funcionalidades
