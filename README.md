@@ -28,7 +28,7 @@ Um sistema completo para gerenciamento financeiro pessoal com interface intuitiv
 ## 🚀 Como Usar
 
 1. Clone o repositório:
-   - git clone https://github.com/seu-usuario/fincontrol.git   
+   - git clone https://github.com/kkrodrigues/fincontrol
 2. Abra o arquivo 'index.html' no seu navegador
 3. Comece a registrar suas transações!
 
@@ -43,4 +43,4 @@ Um sistema completo para gerenciamento financeiro pessoal com interface intuitiv
 📄 Licença
 MIT License - Livre para uso e modificação
 
-<div align="center"> 👨‍💻 Desenvolvido com ❤️ por [Kaiky Rodrigues] - [Portfólio](https://kkrodrigues021.github.io/portfolio) </div> ```
+<div align="center"> 👨‍💻 Desenvolvido com por [Kaiky Rodrigues] - [Portfólio](https://kkrodrigues021.github.io/portfolio) </div>
