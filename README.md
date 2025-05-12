@@ -41,4 +41,4 @@ Um sistema completo para gerenciamento financeiro pessoal com interface intuitiv
 📄 Licença
 MIT License - Livre para uso e modificação
 
-<div align="center"> 👨‍💻 Desenvolvido com por [Kaiky Rodrigues] - [Portfólio](https://kkrodrigues021.github.io/portfolio) </div>
+<div align="center"> 👨‍💻 Desenvolvido por Kaiky Rodrigues - [Meu Portfólio](https://kkrodrigues021.github.io/portfolio/) </div>
